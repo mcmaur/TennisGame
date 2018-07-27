@@ -1,4 +1,4 @@
 # TennisGame
 Canvas &amp; javascript arcade game
 
-![game preview](https://github.com/mcmaur/TennisGame/screenshot.png "Game preview")
+![game preview](https://raw.githubusercontent.com/mcmaur/TennisGame/master/screenshot.png "Game preview")
